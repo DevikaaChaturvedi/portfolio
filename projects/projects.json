@@ -1,0 +1,48 @@
+[ 
+    
+    
+    {
+        "id": 1,
+        "name": "Phishing Classification",
+        "desc": "Classify emails as spam or not-spam.[Numpy, Pandas and Sklearn].",
+        "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1626933127/mlpr_c2stn8.jpg",
+        "links": {
+            "view": "https://github.com/DevikaaChaturvedi/Phishing/blob/main/README.md",
+            "code": "https://github.com/DevikaaChaturvedi/Phishing/blob/main/phishing_devika.py"
+        }
+    },
+    
+    {
+        "id": 3,
+        "name": "To-Do List",
+        "desc": "A simple HTML and CSS to-do list project allows users to add, view, and delete tasks through a user-friendly interface. HTML provides the structure with a form and task list, while CSS styles the application for a clean, responsive design.",
+        "links": {
+            "view": "https://devikaachaturvedi.github.io/To-Do-List/",
+            "code": "https://github.com/DevikaaChaturvedi/To-Do-List.git"
+        }
+    },
+    {
+        "id": 4,
+        "name": "Portfolio Website",
+        "desc": "Personal portfolio website. Don't need much info about it, just scroll down. You're here only!",
+        "links": {
+            "view": " https://devikaachaturvedi.github.io/Portfolio/",
+            "code": "https://github.com/DevikaaChaturvedi/Portfolio.git"
+        }
+    },
+    
+   
+    {
+        "id": 6,
+        "name": "Netflix Clone",
+        "desc": "Netflix clone App built with Html and CSS. The objective of this project is to practising the concepts of HTML, CSS.",
+        "image": "https://res.cloudinary.com/dkak37mek/image/upload/v1628532262/Netflix_ty1ofn.png",
+        "links": {
+        "view": "https://devikaachaturvedi.github.io/netflix-clone/",
+        "code": "https://github.com/DevikaaChaturvedi/netflix-clone.git"
+        }
+    }
+
+    
+    
+]
